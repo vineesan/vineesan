@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vineeth
-- 👀 I’m interested in USER INTERFACE DESIGN
+- 👀 I’m interested in USER INTERFACE DEVELOPER
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend development technology
 - 📫 How to reach me vinith.vini@gmail.com
